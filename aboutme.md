@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Sam Williams
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+25 year old developer based in Porstmouth, primarily interested in IT networks and infrastructre both from a hardware and software side.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Personal Hobbies include:
+- Cycling
+- Rugby
+- Brewing
