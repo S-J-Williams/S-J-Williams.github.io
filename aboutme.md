@@ -1,12 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Sam Williams
+subtitle: S-J-Williams
 ---
 
-25 year old developer based in Porstmouth, primarily interested in IT networks and infrastructre both from a hardware and software side.
+25 year old developer based in Portsmouth
 
-Personal Hobbies include:
+Professional interests:
+- Networks
+- Virtualisation & containerisation  
+- Software based network manipulation
+
+Personal Hobbies
 - Cycling
 - Rugby
 - Brewing
