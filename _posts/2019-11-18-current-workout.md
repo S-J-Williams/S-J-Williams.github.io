@@ -4,8 +4,6 @@ title: Current workout
 tags: [fitness]
 ---
 
-## Current workout
-
 **Push**  
 Bench Press 3x 5-7  
 Seated Dumbbell Shoulder Press 3x 6-8  
