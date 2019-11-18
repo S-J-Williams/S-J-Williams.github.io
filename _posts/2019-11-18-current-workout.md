@@ -2,6 +2,7 @@
 layout: post
 title: Current workout
 tags: [fitness]
+---
 
 ## Current workout
 
